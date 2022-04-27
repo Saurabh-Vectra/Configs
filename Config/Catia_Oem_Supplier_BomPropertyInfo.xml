@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOMPropertyInfo>
+	<Supplier Name="Valiant">
+		<Oem Name ="BMW">
+			<Division Name ="CAR">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+					<Property Name = "CustToolNo"/>
+					<Property Name = "CustOppToolNo"/>
+					<Property Name = "DB_PART_NO"/>
+					<Property Name = "DB_PART_DESC"/>
+					<Property Name = "DB_PART_Name"/>
+					<Property Name = "Source"/>
+					<Property Name = "VendPartNo"/>
+					<Property Name = "AltPurch"/>
+					<Property Name = "MFGName"/>
+					<Property Name = "SparePart"/>
+					<Property Name = "ProjectMgr"/>
+					<Property Name = "DesSupervisor"/>
+					<Property Name = "DesignedBy"/>
+					<Property Name = "CheckedBy"/>
+					<Property Name = "RelDate"/>
+				</Component>
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+					<Property Name = "CustToolNo"/>
+					<Property Name = "CustOppToolNo"/>
+					<Property Name = "DB_PART_NO"/>
+					<Property Name = "DB_PART_DESC"/>
+					<Property Name = "DB_PART_Name"/>
+					<Property Name = "Source"/>
+					<Property Name = "VendPartNo"/>
+					<Property Name = "AltPurch"/>
+					<Property Name = "MFGName"/>
+					<Property Name = "SparePart"/>
+					<Property Name = "ProjectMgr"/>
+					<Property Name = "DesSupervisor"/>
+					<Property Name = "DesignedBy"/>
+					<Property Name = "CheckedBy"/>
+					<Property Name = "RelDate"/>
+				</Component>
+				
+				<Component Level = "Single-Detail">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+					<Property Name = "CustToolNo"/>
+					<Property Name = "CustOppToolNo"/>
+					<Property Name = "DB_PART_NO"/>
+					<Property Name = "DB_PART_DESC"/>
+					<Property Name = "DB_PART_Name"/>
+					<Property Name = "Source"/>
+					<Property Name = "VendPartNo"/>
+					<Property Name = "AltPurch"/>
+					<Property Name = "MFGName"/>
+					<Property Name = "SparePart"/>
+					<Property Name = "ProjectMgr"/>
+					<Property Name = "DesSupervisor"/>
+					<Property Name = "DesignedBy"/>
+					<Property Name = "CheckedBy"/>
+					<Property Name = "RelDate"/>
+				</Component>
+				
+				<Component Level = "Welded-Parent">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+					<Property Name = "CustToolNo"/>
+					<Property Name = "CustOppToolNo"/>
+					<Property Name = "DB_PART_NO"/>
+					<Property Name = "DB_PART_DESC"/>
+					<Property Name = "DB_PART_Name"/>
+					<Property Name = "Source"/>
+					<Property Name = "VendPartNo"/>
+					<Property Name = "AltPurch"/>
+					<Property Name = "MFGName"/>
+					<Property Name = "SparePart"/>
+					<Property Name = "ProjectMgr"/>
+					<Property Name = "DesSupervisor"/>
+					<Property Name = "DesignedBy"/>
+					<Property Name = "CheckedBy"/>
+					<Property Name = "RelDate"/>
+				</Component>
+				
+				<Component Level = "Welded-Child">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+					<Property Name = "CustToolNo"/>
+					<Property Name = "CustOppToolNo"/>
+					<Property Name = "DB_PART_NO"/>
+					<Property Name = "DB_PART_DESC"/>
+					<Property Name = "DB_PART_Name"/>
+					<Property Name = "Source"/>
+					<Property Name = "VendPartNo"/>
+					<Property Name = "AltPurch"/>
+					<Property Name = "MFGName"/>
+					<Property Name = "SparePart"/>
+					<Property Name = "ProjectMgr"/>
+					<Property Name = "DesSupervisor"/>
+					<Property Name = "DesignedBy"/>
+					<Property Name = "CheckedBy"/>
+					<Property Name = "RelDate"/>
+				</Component>
+				
+				<Component Level = "Standard">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+					<Property Name = "CustToolNo"/>
+					<Property Name = "CustOppToolNo"/>
+					<Property Name = "DB_PART_NO"/>
+					<Property Name = "DB_PART_DESC"/>
+					<Property Name = "DB_PART_Name"/>
+					<Property Name = "Source"/>
+					<Property Name = "VendPartNo"/>
+					<Property Name = "AltPurch"/>
+					<Property Name = "MFGName"/>
+					<Property Name = "SparePart"/>
+					<Property Name = "ProjectMgr"/>
+					<Property Name = "DesSupervisor"/>
+					<Property Name = "DesignedBy"/>
+					<Property Name = "CheckedBy"/>
+					<Property Name = "RelDate"/>
+				</Component>
+			</Division>
+			<Division Name ="TRUCK">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+		</Oem>
+		<Oem Name="Volvo">
+			<Division Name ="CAR">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+			<Division Name ="TRUCK">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+		</Oem>
+	</Supplier>
+
+	<Supplier Name="Comau">
+		<Oem Name ="BMW">
+			<Division Name ="CAR">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+			<Division Name ="TRUCK">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+		</Oem>
+		<Oem Name="Volvo">
+			<Division Name ="CAR">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+			<Division Name ="TRUCK">
+				<Component Level = "Tool">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+				
+				<Component Level = "Unit">
+					<Property Name = "BOM"/>
+					<Property Name = "Customer"/>
+					<Property Name = "CustPgmName"/>
+				</Component>
+			</Division>
+		</Oem>
+	</Supplier>
+
+</BOMPropertyInfo>

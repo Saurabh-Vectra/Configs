@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BomUIProperties>
+	<Supplier Name="Valiant">
+		<Oem Name ="BMW">
+			<Division Name ="CAR">
+				<Property Name = "Customer" InputType="Choice" Value="VOLVO|JLR|BMW"/>
+				<Property Name = "CustPgmName" InputType="Text"/>
+				<Property Name = "CustToolNo." InputType="Text"/>
+				<Property Name = "CustOpp ToolNo." InputType="Text"/>
+				<Property Name = "ProjectMgr" InputType="Text"/>
+				<Property Name = "DesSupervisor" InputType="Text"/>
+				<Property Name = "Designed By." InputType="Text"/>
+				<Property Name = "Checked By" InputType="Text"/>
+				<Property Name = "RelDate" InputType="Date" Value="Today"/>
+				
+			</Division>
+			<Division Name ="TRUCK">
+				<Property Name = "Project Manager"/>
+				<Property Name = "Design Superviser"/>
+				<Property Name = "Checker"/>
+				<Property Name = "Designer"/>
+			</Division>
+		</Oem>
+		<Oem Name ="JLR">
+			<Division Name ="CAR">
+				<Property Name = "Project Manager"/>
+				<Property Name = "Design Superviser"/>
+				<Property Name = "Checker"/>
+				<Property Name = "Designer"/>
+			</Division>
+		</Oem>
+	</Supplier>
+	
+	<Supplier Name="Expert">
+		<Oem Name ="VOLVO">
+			<Division Name ="TRUCK">
+				<Property Name = "Project Manager"/>
+				<Property Name = "Design Superviser"/>
+				<Property Name = "Checker"/>
+				<Property Name = "Designer"/>
+			</Division>
+		</Oem>
+	</Supplier>
+</BomUIProperties>
+
